@@ -1,4 +1,4 @@
-# Cobstruction 3d Printer
+# Construction 3d Printer
  Welcome to the Construction 3D Printer project repository!
 
  ## Overview
