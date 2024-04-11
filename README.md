@@ -18,8 +18,8 @@
 5. Calibration and Testing: Perform calibration procedures such as bed leveling and extruder calibration to ensure accurate printing. Test the printer with small-scale prints before proceeding to larger projects.
 
 ## Contributors
-[Prakhar Gupta]()
-[Bhavesh Jain]()
+ [Prakhar Gupta]()
+ [Bhavesh Jain]()
 
 ## Acknowledgements
 We extend our gratitude to [Mr. Thiyagarajan](https://www.linkedin.com/in/thiyagu89/) for his guidance and support in initiating this project, as well as to the Techmaniacs Club for their invaluable contributions and dedication to innovation in the field of 3D printing and construction technology.
